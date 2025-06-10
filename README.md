@@ -51,7 +51,7 @@ TypeScript + Decorator powered architecture
 - Outputs JSON styled like neo.js  
 - Pterodactyl Master
 - Rule34 Scrapper
-- 
+ 
 #### 🎶 TikTok Downloader
 - Video + audio download API  
 - Uses `--a` flag for audio  
@@ -67,7 +67,7 @@ TypeScript + Decorator powered architecture
 - Generates token-based VPS download links  
 - Auto-deletes file after download  
 - Telegraph Api
-- 
+
 #### 🔞 Xvideos Scraper API
 - FastAPI + metadata  
 - Hosts and serves temporary token-secured video downloads  
