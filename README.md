@@ -1,18 +1,91 @@
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sayan.mistry.528) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mad_kakashu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Kakashu00) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Kakashu00) 
-
-# 💻 Tech Stack:
-![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kakashu00&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kakashu00&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kakashu00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h1 align="center">✨ Kakashi Hatake ✨</h1>
+<p align="center">
+  🧑‍💻 Full-stack Developer | 🤖 Bot Creator | 🎌 Anime Engineer <br>
+  <i>"Code with heart, automate with soul, and never skip the opening theme."</i>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kakashu00&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌸 Who Am I?
+
+Hey there! I'm **Kakashi**, a self-driven developer who crafts bots, APIs, and websites with style — always blending automation and anime aesthetics. Whether it's scraping sites like Shoob.gg, building high-speed WhatsApp bots, or writing FastAPI backends, I'm all about clean code and creative impact.
+
+---
+
+## 🧪 My Core Stack
+
+| Category     | Tools |
+|-------------|-------|
+| 🛠️ Languages | TypeScript, JavaScript, Python |
+| ⚙️ Frameworks | FastAPI, Express.js |
+| 🤖 Bots      | [`@whiskersockets/baileys`](https://github.com/WhiskerSockets/Baileys), Pyrogram |
+| 🌐 Scraping  | Puppeteer, Chromium |
+| 🎵 Media     | yt-dlp, cookies.txt |
+| ☁️ Hosting   | Ubuntu VPS, Oracle Cloud |
+| 🧰 Features  | Proxy rotation, Token auth, ZIP fetchers |
+
+---
+
+## 📦 My Projects
+
+### 🔥 WhatsApp Bot (Anime-Themed)
+> Built using `@whiskersockets/baileys`  
+> TypeScript + Decorator powered architecture  
+> Features:
+- 🧬 Pokémon System – Choose starters by generation, with images, gender, typing
+- 🎴 Shoob.gg Card System – Puppeteer scraper, tier logic, image support
+- 🛎️ Auction System – 5-minute anime-styled timers
+- 🎙️ Voice Note Music – Returns `.ogg; codecs=opus` voice notes for WhatsApp
+- 🥇 Premium Logic – Unlockable features and rewards
+- 🎀 Cute UI – With emojis, region groups, and Zero Two intro messages
+
+---
+
+### 🌐 API & Scraper Systems
+
+#### 🎥 YouTube Downloader (FastAPI)
+- Supports cookies.txt
+- Scrapes title, views, duration, and stream URLs
+- Uses internal YouTube web clients for clean access
+- Outputs JSON styled like neoxr.js
+
+#### 🎶 TikTok Downloader
+- Video + audio download API
+- Uses `--a` flag for audio
+- Returns music URL, thumbnail, description, title
+
+#### 🧠 Shoob.gg + MyWaifuList Scrapers
+- Puppeteer + proxy rotation
+- Smart search across 2K+ pages
+- Supports full tier filtering, image fetching, and cache management
+
+#### 📦 Telegram ZIP Host API
+- Fetches ZIP files via Pyrogram
+- Generates token-based VPS download links
+- Auto-deletes file after download
+
+#### 🔞 Xvideos Scraper API
+- FastAPI + metadata
+- Hosts and serves temporary token-secured video downloads
+- Debug logs for traceable scraping
+
+---
+
+## 🧪 Other Cool Stuff
+
+- 💌 Anime-inspired website with background music, love letters, and transitions  
+- 🎨 Used Zero Two/Hiro themes for smooth, emotional design  
+- 🕹️ Commands like `#start-journey`, `#party`, `#pc 1 3 5`, and more  
+- ⚔️ Custom clan system and message-count-based card spawns  
+- ❤️ Even though things change, my code always carries emotion.
+
+---
+
+## 💡 My Dev Philosophy
+
+```ts
+while(alive) {
+  code("with emotion");
+  automate("the boring");
+  style("like an anime OP");
+}
