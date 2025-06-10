@@ -8,7 +8,7 @@
 
 ## 🌸 Who Am I?
 
-Hey there! I'm **Kakashi**, a self-driven developer who crafts bots, APIs, and websites with style — always blending automation and anime aesthetics. Whether it's scraping sites like Shoob.gg, building high-speed WhatsApp bots, or writing FastAPI backends, I'm all about clean code and creative impact.
+Hey there! I'm **Kakashi (Shiva Sharma)**, a self-driven developer who crafts bots, APIs, and websites with style — always blending automation and anime aesthetics. Whether it's scraping sites like Shoob.gg, building high-speed WhatsApp bots, or writing FastAPI backends, I'm all about clean code and creative impact.
 
 ---
 
@@ -48,8 +48,10 @@ TypeScript + Decorator powered architecture
 - Supports cookies.txt  
 - Scrapes title, views, duration, and stream URLs  
 - Uses internal YouTube web clients for clean access  
-- Outputs JSON styled like neoxr.js  
-
+- Outputs JSON styled like neo.js  
+- Pterodactyl Master
+- Rule34 Scrapper
+- 
 #### 🎶 TikTok Downloader
 - Video + audio download API  
 - Uses `--a` flag for audio  
@@ -64,13 +66,18 @@ TypeScript + Decorator powered architecture
 - Fetches ZIP files via Pyrogram  
 - Generates token-based VPS download links  
 - Auto-deletes file after download  
-
+- Telegraph Api
+- 
 #### 🔞 Xvideos Scraper API
 - FastAPI + metadata  
 - Hosts and serves temporary token-secured video downloads  
-- Debug logs for traceable scraping  
+- Debug logs for traceable scraping
 
----
+#### 📒 Databases
+- Mongodb 💗
+- Quickdb
+
+  ------
 
 ## 🧪 Other Cool Stuff
 
