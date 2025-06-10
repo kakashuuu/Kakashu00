@@ -18,7 +18,7 @@ Hey there! I'm **Kakashi**, a self-driven developer who crafts bots, APIs, and w
 |-------------|-------|
 | 🛠️ Languages | TypeScript, JavaScript, Python |
 | ⚙️ Frameworks | FastAPI, Express.js |
-| 🤖 Bots      | [`@whiskersockets/baileys`](https://github.com/WhiskerSockets/Baileys), Pyrogram |
+| 🤖 Bots      | [@WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys), Pyrogram |
 | 🌐 Scraping  | Puppeteer, Chromium |
 | 🎵 Media     | yt-dlp, cookies.txt |
 | ☁️ Hosting   | Ubuntu VPS, Oracle Cloud |
@@ -29,45 +29,46 @@ Hey there! I'm **Kakashi**, a self-driven developer who crafts bots, APIs, and w
 ## 📦 My Projects
 
 ### 🔥 WhatsApp Bot (Anime-Themed)
-> Built using `@whiskersockets/baileys`  
-> TypeScript + Decorator powered architecture  
-> Features:
-- 🧬 Pokémon System – Choose starters by generation, with images, gender, typing
-- 🎴 Shoob.gg Card System – Puppeteer scraper, tier logic, image support
-- 🛎️ Auction System – 5-minute anime-styled timers
-- 🎙️ Voice Note Music – Returns `.ogg; codecs=opus` voice notes for WhatsApp
-- 🥇 Premium Logic – Unlockable features and rewards
-- 🎀 Cute UI – With emojis, region groups, and Zero Two intro messages
+
+Built using [@WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys)  
+TypeScript + Decorator powered architecture  
+
+- 🧬 Pokémon System – Choose starters by generation, with images, gender, typing  
+- 🎴 Shoob.gg Card System – Puppeteer scraper, tier logic, image support  
+- 🛎️ Auction System – 5-minute anime-styled timers  
+- 🎙️ Voice Note Music – Returns `.ogg; codecs=opus` voice notes for WhatsApp  
+- 🥇 Premium Logic – Unlockable features and rewards  
+- 🎀 Cute UI – With emojis, region groups, and Zero Two intro messages  
 
 ---
 
 ### 🌐 API & Scraper Systems
 
 #### 🎥 YouTube Downloader (FastAPI)
-- Supports cookies.txt
-- Scrapes title, views, duration, and stream URLs
-- Uses internal YouTube web clients for clean access
-- Outputs JSON styled like neoxr.js
+- Supports cookies.txt  
+- Scrapes title, views, duration, and stream URLs  
+- Uses internal YouTube web clients for clean access  
+- Outputs JSON styled like neoxr.js  
 
 #### 🎶 TikTok Downloader
-- Video + audio download API
-- Uses `--a` flag for audio
-- Returns music URL, thumbnail, description, title
+- Video + audio download API  
+- Uses `--a` flag for audio  
+- Returns music URL, thumbnail, description, title  
 
 #### 🧠 Shoob.gg + MyWaifuList Scrapers
-- Puppeteer + proxy rotation
-- Smart search across 2K+ pages
-- Supports full tier filtering, image fetching, and cache management
+- Puppeteer + proxy rotation  
+- Smart search across 2K+ pages  
+- Supports full tier filtering, image fetching, and cache management  
 
 #### 📦 Telegram ZIP Host API
-- Fetches ZIP files via Pyrogram
-- Generates token-based VPS download links
-- Auto-deletes file after download
+- Fetches ZIP files via Pyrogram  
+- Generates token-based VPS download links  
+- Auto-deletes file after download  
 
 #### 🔞 Xvideos Scraper API
-- FastAPI + metadata
-- Hosts and serves temporary token-secured video downloads
-- Debug logs for traceable scraping
+- FastAPI + metadata  
+- Hosts and serves temporary token-secured video downloads  
+- Debug logs for traceable scraping  
 
 ---
 
@@ -77,7 +78,6 @@ Hey there! I'm **Kakashi**, a self-driven developer who crafts bots, APIs, and w
 - 🎨 Used Zero Two/Hiro themes for smooth, emotional design  
 - 🕹️ Commands like `#start-journey`, `#party`, `#pc 1 3 5`, and more  
 - ⚔️ Custom clan system and message-count-based card spawns  
-- ❤️ Even though things change, my code always carries emotion.
 
 ---
 
